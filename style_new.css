@@ -1,0 +1,33 @@
+body {
+    background-color: rgb(226, 235, 236);
+    text-align: center;
+  }
+  h1 {
+    color: navy;
+  }
+  h3 {
+    color: navy;
+    font-family: sans-serif;
+  }
+  h4 {
+    color: navy;
+  }
+  p {
+    color:black;
+    border-style: dotted;
+    /* margin-top: 100px;
+    margin-bottom: 100px; */
+    /* margin-right: 150px;
+    margin-left: 80px; */
+  }
+.center {
+    /* text-align: center;
+    border: 3px solid; */
+    margin-left: auto;
+    margin-right: auto;
+  }
+  div {
+    height: 200px;
+    width: 50%;
+    background-color: powderblue;
+  }
