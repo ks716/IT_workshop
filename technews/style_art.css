@@ -134,7 +134,7 @@ video#bgvid {
 
 @font-face {
     font-family: new-font;
-    src: url(../GoogleSans-Regular.ttf);
+    src: url(../css/GoogleSans-Regular.ttf);
 }
 
 /* @keyframes anim1{
