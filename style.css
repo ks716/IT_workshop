@@ -31,10 +31,11 @@ video#bgvid {
     margin: 0 auto;
 }
     header {
-        background: #45a29e;
+        background: #66fcf1;
         width: 1000px;
         margin: 20px 0;
         border-radius: 5px;
+        text-align: center;
     }
     header h1 {
         color: #0b0c10;
@@ -123,7 +124,7 @@ video#bgvid {
                 aside button {
                     width: 280px;
                     height: 30px;
-                    border: 1px solid black;
+                    border: 1px solid #0b0c10;
                     background:  #1f2833;
                     color: #66fcf1;
                     font-size: 18px;
@@ -133,7 +134,7 @@ video#bgvid {
                     width: 280px;
                     height: 30px;
                     border: 1px solid #0b0c10;
-                    background:#45a29e;
+                    background:#66fcf1;
                     color: #1f2833;
                     font-size: 18px;
                     margin: 10px 0;
@@ -160,7 +161,7 @@ video#bgvid {
                     
                 }
     footer{
-        background: #45a29e;
+        background: #66fcf1;
         width: 1000px;
         
         margin: 20px 0;
