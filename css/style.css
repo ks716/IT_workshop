@@ -76,7 +76,7 @@ video#bgvid {
             
             
     main {
-        background: #1f2833;
+        /* background: #1f2833; */
         width: 1000px;        
         margin: 20px 0;
     }
@@ -111,7 +111,7 @@ video#bgvid {
                         transition: padding 1s;
                     }
                     .lists:hover {
-                        background: #454545;
+                        background: #66fcf1;
                         padding: 10px;
                         color: #1f2833;
                         
@@ -125,8 +125,8 @@ video#bgvid {
                 aside button {
                     width: 280px;
                     height: 30px;
-                    border: 1px solid #0b0c10;
-                    background:  #1f2833;
+                    /* border: 1px solid #0b0c10; */
+                    background:#1f2833;
                     color: #66fcf1;
                     font-size: 18px;
                     margin: 10px 0;
@@ -134,7 +134,7 @@ video#bgvid {
                 aside button:hover {
                     width: 280px;
                     height: 30px;
-                    border: 1px solid #0b0c10;
+                    /* border: 1px solid #0b0c10; */
                     background:#66fcf1;
                     color: #1f2833;
                     font-size: 18px;
@@ -161,6 +161,11 @@ video#bgvid {
                     margin: 10px 0;
                     color: #73fcf3;
                     
+                }
+            main a {    
+                    text-decoration: none;
+                    /* background: #1f2833; */
+                    color:  #45a29e
                 }
     footer{
         background: #66fcf1;

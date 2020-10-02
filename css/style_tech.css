@@ -75,10 +75,10 @@ video#bgvid {
             
             
     p span { 
-                background-color: #015458; 
+                background-color:#1f2833; 
             }   
     main {
-        background: #1f2833;
+        /* background: #1f2833; */
         width: 1000px;        
         margin: 20px 0;
     }
@@ -100,7 +100,7 @@ video#bgvid {
             }
                 .title {
                     color: #45a29e;
-                    background-color: #015458;
+                    background-color: #1f2833;
                     margin: 10px 0px;
                     font-size: 25px;
                     font-weight: bold;
