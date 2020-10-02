@@ -76,7 +76,7 @@ video#bgvid {
             
             
     main {
-        background: #1f2833;
+        /* background: #1f2833; */
         width: 1000px;        
         margin: 20px 0;
     }
@@ -91,13 +91,13 @@ video#bgvid {
         
             
             article{
-                background: #1f2833;
+                /* background: #1f2833; */
                 padding: 40px;
                 margin: auto;
                 border-radius: 5px;
             }
                 .title {
-                    color: #45a29e;
+                    color: #66fcf1;
                     margin: 10px 0px;
                     font-size: 25px;
                     font-weight: bold;
