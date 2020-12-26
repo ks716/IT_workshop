@@ -6,6 +6,7 @@ This is a repo which has a website made from scratch
 ## File Structure
 
 The file structure and positions of files.
+Launch main.html
 
 ```
 .
