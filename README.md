@@ -1,7 +1,7 @@
 # IT_Workshop
 ## Website using HTML and CSS
 
-This is a repo which has a website made from scratch
+This is a repo which has a website made from scratch.
 
 ## File Structure
 
