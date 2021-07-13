@@ -1,4 +1,4 @@
-# IT_Workshop
+# IT_Workshop - [Link](https://ks716.github.io/Tech_Blog/main.html)
 ## Website using HTML and CSS
 
 This is a repo which has a website made from scratch.
